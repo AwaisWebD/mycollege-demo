@@ -1,2 +1,3 @@
 # mycollege-demo
-first public git repository
+This is first public git repository.
+author - Awais shakeel
